@@ -38,7 +38,7 @@
   --box-shadow: 0 0.2em 0.5em -0.3em;
   --shadow-box-bg: #e2e4e5;
   --shadow-box-bg-inactive: #f0f3f5;
-  --placeholder-text: #9ca3af;
+  --placeholder-text: #9ca3af
 }
 
 * {
@@ -149,10 +149,10 @@ input:-webkit-autofill {
 }
 
 /* .btn-secondary-outline:hover {
-    background: var(--secondary-bg);
-    color: var(--secondary-text);
-    box-shadow: var(--box-shadow) var(--secondary-bg-inactive);
-  } */
+  background: var(--secondary-bg);
+  color: var(--secondary-text);
+  box-shadow: var(--box-shadow) var(--secondary-bg-inactive);
+} */
 
 .hidden {
   display: none;
@@ -231,6 +231,7 @@ header {
   width: 100%;
   padding: 1em 2em;
 }
+
 
 .d-none {
   display: none;
@@ -657,6 +658,7 @@ header {
 .music-name {
   color: var(--text-dark);
 }
+
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
